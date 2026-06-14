@@ -1,0 +1,1 @@
+"""SHADOWSELF — Game package."""
